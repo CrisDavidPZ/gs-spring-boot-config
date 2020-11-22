@@ -1,2 +1,2 @@
 # gs-spring-boot-config
-Getting started para spring boog configuration
+ Sring boot configuration getting started
